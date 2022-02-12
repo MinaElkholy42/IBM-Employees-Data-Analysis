@@ -7,9 +7,9 @@ challenges:
 1. Expensive in terms of both money and time to train new employees
 2. Loss of experienced employees
 3. Impact on productivity
-4. Impact on profit
-This dataset is from IBM HR Analytics Employee Attrition & Performance. It has 35 features describing
-each employee’s background and characteristics and is labeled with whether they are still in the company or whether they have gone to work somewhere else. 
+4. Impact on profit This dataset is from IBM HR Analytics Employee Attrition & Performance. 
+ 
+It has 35 features describing each employee’s background and characteristics and is labeled with whether they are still in the company or whether they have gone to work somewhere else. 
 Exploratory data analysis can help to understand and determine how these factors relate to workforce attrition.
 
 so there is a need to provide key insights on the current HR scheme and does it impact attrition rates. 
